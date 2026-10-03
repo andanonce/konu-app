@@ -1,6 +1,6 @@
 {
   "name": "konu dergi",
-  "short_name": "konu dergi",
+  "short_name": "konu.",
   "start_url": "https://konudergi.com/",
   "scope": "https://konudergi.com/",
   "display": "standalone",
